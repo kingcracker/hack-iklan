@@ -15,7 +15,7 @@ echo  $red    "|                                         |"
 echo  $red    "| Author        : Mr.51mb4h               |"
 echo  $red    "| date          : 11-4-2019               |"
 echo  $red    "| My Team       : Indenpendent Cyber Team |"
-echo  $red    "| selamat mencoba njiing                  |"
+echo  $red    "| selamat mencoba{HANYA HIBURAN SEMATAA}  |"             |"
 echo  $blue "<!÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷!>"
 sleep 1
 echo " "
